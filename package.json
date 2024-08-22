@@ -8,20 +8,20 @@
     "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "@emotion/react": "^11.13.3",
-    "@emotion/styled": "^11.13.0",
-    "@mui/icons-material": "^5.16.7",
-    "@mui/material": "^5.16.7",
-    "axios": "^1.2.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-redux": "^9.1.2",
-    "redux": "^5.0.1",
-    "redux-devtools-extension": "^2.13.9",
-    "redux-thunk": "^2.4.2",
-    "uuid": "^10.0.0"
-  },
+"dependencies": {
+  "@emotion/react": "^11.13.3",
+  "@emotion/styled": "^11.13.0",
+  "@mui/icons-material": "^5.16.7",
+  "@mui/material": "^5.16.7",
+  "axios": "^1.2.0",
+  "react": "^18.2.0",
+  "react-dom": "^18.2.0",
+  "react-redux": "^9.1.2",
+  "redux": "^4.2.1",
+  "redux-devtools-extension": "^2.13.9",
+  "redux-thunk": "^2.4.2",
+  "uuid": "^10.0.0"
+},
   "devDependencies": {
     "@babel/core": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
